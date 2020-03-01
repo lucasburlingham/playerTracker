@@ -1,4 +1,4 @@
-playerTracker version 1.0
+playertracker version 1.0
 
 Gets ip address and username, then spits them out into a text document under
 /mods/playerTracker
