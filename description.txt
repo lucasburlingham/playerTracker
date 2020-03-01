@@ -1,0 +1,2 @@
+Gets ip address and username, then spits them out into a text document under
+/mods/playerTracker
