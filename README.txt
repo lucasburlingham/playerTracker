@@ -1,6 +1,6 @@
 playertracker version 1.0
 
-Gets ip address and username, then spits them out into a text document 
+Gets ip address and username, then spits them out into a text document along with the most recent date of login. Could be useful for server admins.
 /mods/playerTracker/players.txt
 
 Written by Lucas Burlingham and licensed under the MIT License.
