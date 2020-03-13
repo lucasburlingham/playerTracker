@@ -1,11 +1,10 @@
 playertracker version 1.0
 
-Gets ip address and username, then spits them out into a text document along with the most recent date of login. Could be useful for server admins.
-/mods/playerTracker/players.txt
+Gets ip address and username and then puts them in ../worldpath/ip_file.txt. Could be useful for server admins.
 
-Written by Lucas Burlingham and licensed under the MIT License.
+Written by Lucas Burlingham and NoNameDude and licensed under the MIT License.
 
-There are no dependancies, as this mod is for any game
+There are no dependancies, as this mod is for any game.
 
 ===== Install =====
 
@@ -15,3 +14,4 @@ unzip it to /mods. Be sure to restart the server, as well as chang the world.con
 
 
 Currently Does not work. Check issues for updates.
+
