@@ -8,7 +8,7 @@ minetest.register_on_joinplayer(function(player)
     
     --If its an ip then it gets saved (made by NoNameDude)
     if ip then
-        local logFile = io.open(ip_file, 'w')
+        local logFile = io.open(ip_file, 'a')
         logFile:write("Player ",name," has the ip [",ip,"].")
         logFile:close()
         
