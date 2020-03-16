@@ -14,7 +14,7 @@ minetest.register_on_joinplayer(function(player)
         
     --shows you if something went wrong (made by NoNameDude)
     else
-    print("ups something went wrong with the ip from the player called "..name.." this should not happen") 
+    print("There was an error with "..name..". ") 
     end
     
 end)
